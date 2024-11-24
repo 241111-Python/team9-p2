@@ -3,11 +3,12 @@ from model import Data
 
 
 columns = {
-    "credit score" : "CreditScore", 
-    "points earned" : "Point_Earned", 
-    "balance" : "Balance",
-    "tenure" : "Tenure"
+    "credit score": "CreditScore",
+    "points earned": "Point_Earned",
+    "balance": "Balance",
+    "tenure": "Tenure",
 }
+
 
 def csvRead(path):
     with open(path, "r") as file:
@@ -33,6 +34,7 @@ def paginate(entries, entry_size, page_number):
 
     return entries[start_entry:end_entry]  # we can use list slicing to get each page
 
+
 def sort_entries(entries_list):
     print("Columns available for sorting:")
     print("Credit Score, Points Earned, Balance, Tenure")
@@ -41,15 +43,29 @@ def sort_entries(entries_list):
         column = input("Enter the column name to sort by: ").strip().lower()
         if column in columns.keys():
             break
-    
+
     column = columns[column]
 
     while True:
-        order = input("Enter 'asc' for ascending order or 'desc' for descending order: ").strip().lower()
-        if order == 'asc' or order == 'desc':
+        order = (
+            input("Enter 'asc' for ascending order or 'desc' for descending order: ")
+            .strip()
+            .lower()
+        )
+        if order == "asc" or order == "desc":
             break
-    
-    return sorted(entries_list, key=lambda x: getattr(x, column), reverse= order == 'desc')
+
+    return sorted(
+        entries_list, key=lambda x: getattr(x, column), reverse=order == "desc"
+    )
+
+
+def entry_selection(entries_list, user_input):
+    for entry in entries_list:
+        if int(user_input) == entry.CustomerId:
+            return entry
+    print("Entry not found. Please check your ID, and try again.")
+
 
 def printEntries(entries_list, entry_size=10):
     # sorted each entry based on user preference
@@ -65,7 +81,9 @@ def printEntries(entries_list, entry_size=10):
 
     while True:
         print("__________________________________________________________________")
-        print("\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance")
+        print(
+            "\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance"
+        )
         print("__________________________________________________________________")
         current_page_entries = paginate(sorted_entries, entry_size, current_page)
         for entry in current_page_entries:
@@ -77,6 +95,7 @@ def printEntries(entries_list, entry_size=10):
         )
         print("Enter N: Next page")
         print("Enter P: Previous page")
+        print("Enter G: Getting entry with the <CustomerID>")
         print("Enter S: Sort Data")
         print(f"Enter 1 ~ {max_number_pages}: Go to a specific page")
         print("Enter X: Exit")
@@ -95,11 +114,23 @@ def printEntries(entries_list, entry_size=10):
             if current_page < 1:
                 current_page = 1
 
+        elif user_input.upper() == "G":
+
+            id_input = input("Please enter CustomerID: ")
+
+            print(
+                "\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance"
+            )
+            print("__________________________________________________________________")
+            entry = entry_selection(entries_list, id_input)
+            print(entry)
+            print()
+
         elif user_input.upper() == "S":
             sorted_entries = sort_entries(entries_list)
-          
+
         elif user_input.upper() == "X":
-            break  
+            break
 
         elif int(user_input) >= 1 and int(user_input) <= max_number_pages:
             current_page = int(user_input)
