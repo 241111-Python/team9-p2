@@ -1,36 +1,14 @@
-import csv
-from model import Data
-import library
+from library import printEntries, csvRead
 
-# opening the CSV file
-path = "./Customer-Churn-Records.csv"
-# path = input()
-
-with open(path, "r") as file:
-    # reading the CSV file
-    csvFile = csv.reader(file)
-
-    # displaying the contents of the CSV file
-    count = 0
-    entries_list = []
-    for lines in csvFile:
-        # BREAK. taking only 200 for now
-        count += 1
-        if count >= 200:
-            break
-
-        entry = Data(*lines)
-        entries_list.append(entry)
-
-    for entry in entries_list:
-        print(entry)
 
 def main():
     # Generates command line text menu
     print("Welcome to the Bank Churn Data Analysis Menu")
     print("--------------------------------------------")
-    print("1. Load and Display Data")
-    print("2. Exit")
+    print("1. Display Provided Dataset: (Pagination...)")
+    print("2. Load CSV Dataset")
+    print("3. Analysis")
+    print("4. Exit")
     print("--------------------------------------------")
 
     # Mantains application running
@@ -40,13 +18,31 @@ def main():
             number = int(choice)
             if number >= 1 and number < 3:
                 if number == 1:
-                    print("Calls function to displays data.")
-                if number == 2:
-                    print("Exiting program...")
+                    # Display Provided Dataset
+                    print("Calls function to displays provided datasets.")
+                    path = "./Customer-Churn-Records.csv"
+                    entry_List = csvRead(path)
+                    printEntries(entry_List)
+                elif number == 2:
+                    # Load CSV Dataset
+                    #### we might need to put in a try/catch block here -------
+                    print("Load CSV Dataset function")
+
+                    path = input("Please provide a CSV dataset: ")
+                    entry_List = csvRead(path)
+                    printEntries(entry_List)
+
+                elif number == 3:
+                    # Analysis
+                    print("Displays Analysis Menu")
+                elif number == 4:
+                    print("Exiting app...")
                     break
+            else:
+                raise ValueError
         except ValueError:
             print("Please enter a valid number.")
 
 
-if __name__  == '__main__':
+if __name__ == "__main__":
     main()
