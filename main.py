@@ -5,21 +5,22 @@ def main():
     # Mantains application running
     while True:
         # Generates command line text menu
-        print("Welcome to the Bank Churn Data Analysis Menu")
-        print("--------------------------------------------")
-        print("1. Display Provided Dataset: (Pagination...)")
+        print("__________________________________________________________________")
+        print("\nWelcome to the Bank Churn Data Analysis Menu")
+        print("__________________________________________________________________")
+        print("\n1. Display Provided Dataset: (Pagination...)")
         print("2. Load CSV Dataset")
         print("3. Analysis")
         print("4. Exit")
-        print("--------------------------------------------")
+        print("__________________________________________________________________")
 
-        choice = input("Please choose between 1-4: ")
+        choice = input("\nPlease choose between 1-4: ")
+
         try:
             number = int(choice)
-            if number >= 1 and number < 3:
+            if number >= 1 and number <= 4:
                 if number == 1:
                     # Display Provided Dataset
-                    print("Calls function to displays provided datasets.")
                     path = "./Customer-Churn-Records.csv"
                     entry_List = csvRead(path)
                     printEntries(entry_List)

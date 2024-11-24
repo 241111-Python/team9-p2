@@ -2,6 +2,13 @@ import csv
 from model import Data
 
 
+columns = {
+    "credit score" : "CreditScore", 
+    "points earned" : "Point_Earned", 
+    "balance" : "Balance",
+    "tenure" : "Tenure"
+}
+
 def csvRead(path):
     with open(path, "r") as file:
         # reading the CSV file
@@ -9,6 +16,8 @@ def csvRead(path):
 
         # displaying the contents of the CSV file
         entries_list = []
+        # skips header
+        next(csvFile)
 
         for lines in csvFile:
             entry = Data(*lines)
@@ -24,10 +33,27 @@ def paginate(entries, entry_size, page_number):
 
     return entries[start_entry:end_entry]  # we can use list slicing to get each page
 
+def sort_entries(entries_list):
+    print("Columns available for sorting:")
+    print("Credit Score, Points Earned, Balance, Tenure")
+
+    while True:
+        column = input("Enter the column name to sort by: ").strip().lower()
+        if column in columns.keys():
+            break
+    
+    column = columns[column]
+
+    while True:
+        order = input("Enter 'asc' for ascending order or 'desc' for descending order: ").strip().lower()
+        if order == 'asc' or order == 'desc':
+            break
+    
+    return sorted(entries_list, key=lambda x: getattr(x, column), reverse= order == 'desc')
 
 def printEntries(entries_list, entry_size=10):
-    # sorted each entry based on their credit scores
-    sorted_entries = sorted(entries_list, key=lambda x: (x.CreditScore), reverse=True)
+    # sorted each entry based on user preference
+    sorted_entries = sort_entries(entries_list)
 
     # getting the total number of entries and max number of pages
     total_number_entries = len(sorted_entries)
@@ -35,7 +61,12 @@ def printEntries(entries_list, entry_size=10):
 
     current_page = 1
 
+    print("__________________________________________________________________")
+
     while True:
+        print("__________________________________________________________________")
+        print("\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance")
+        print("__________________________________________________________________")
         current_page_entries = paginate(sorted_entries, entry_size, current_page)
         for entry in current_page_entries:
             print(entry)
@@ -46,6 +77,7 @@ def printEntries(entries_list, entry_size=10):
         )
         print("Enter N: Next page")
         print("Enter P: Previous page")
+        print("Enter S: Sort Data")
         print(f"Enter 1 ~ {max_number_pages}: Go to a specific page")
         print("Enter X: Exit")
         user_input = input("Enter Here: ")
@@ -57,13 +89,20 @@ def printEntries(entries_list, entry_size=10):
             # if user try to exceed the last page, this will make sure the page number stays the same
             if current_page > max_number_pages:
                 current_page = max_number_pages
+
         elif user_input.upper() == "P":
             current_page -= 1
             if current_page < 1:
                 current_page = 1
+
+        elif user_input.upper() == "S":
+            sorted_entries = sort_entries(entries_list)
+          
+        elif user_input.upper() == "X":
+            break  
+
         elif int(user_input) >= 1 and int(user_input) <= max_number_pages:
             current_page = int(user_input)
-        elif user_input.upper() == "X":
-            break
+
         else:
             print("Invalid input!. Please review the options and try again")
