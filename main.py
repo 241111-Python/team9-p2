@@ -15,7 +15,7 @@ def main():
         print("4. Exit")
         print("__________________________________________________________________")
 
-        choice = input("\nPlease choose between 1-4: ")
+        choice = input("\nEnter Here: ")
 
         try:
             number = int(choice)
@@ -46,7 +46,7 @@ def main():
             else:
                 raise ValueError
         except ValueError:
-            print("Please enter a valid number.")
+            print("Invalid Input. Please enter a valid number (1 ~ 4).")
 
 
 if __name__ == "__main__":

@@ -2,11 +2,13 @@ import csv
 from model import Data
 
 columns = {
-    "credit score": "CreditScore",
-    "points earned": "Point_Earned",
-    "balance": "Balance",
-    "tenure": "Tenure",
+    "CREDITSCORE": "CreditScore",
+    "POINTSEARNED": "Point_Earned",
+    "ID" : "CustomerId",
+    "BALANCE": "Balance",
+    "TENURE": "Tenure",
 }
+
 
 
 # Reading and creating objs data from a dataset
@@ -38,28 +40,11 @@ def paginate(entries, entry_size, page_number):
     return entries[start_entry:end_entry]  # we can use list slicing to get each page
 
 
-def sort_entries(entries_list):
-    print("Columns available for sorting:")
-    print("Credit Score, Points Earned, Balance, Tenure")
-
-    while True:
-        column = input("Enter the column name to sort by: ").strip().lower()
-        if column in columns.keys():
-            break
-
+def sort_entries(entries_list, column="ID", order=False):
     column = columns[column]
 
-    while True:
-        order = (
-            input("Enter 'asc' for ascending order or 'desc' for descending order: ")
-            .strip()
-            .lower()
-        )
-        if order == "asc" or order == "desc":
-            break
-
     return sorted(
-        entries_list, key=lambda x: getattr(x, column), reverse=order == "desc"
+        entries_list, key=lambda x: getattr(x, column), reverse=order
     )
 
 
@@ -81,21 +66,24 @@ def printEntries(entries_list, entry_size=10):
 
     current_page = 1
 
-    print("__________________________________________________________________")
+    header = f"\n{'CustomerId':<10} | {'Surname':<15} | {'Tenure':<6} | {'Credit Score':<15} | {'PointsEarned':<15} | {'Balance':>10}"
+    print("_" * len(header))
 
     while True:
-        print("__________________________________________________________________")
+        print("_" * len(header))
         print(
-            "\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance"
+            f"\n{'CustomerId':<10} | {'Surname':<15} | {'Tenure':<6} | {'Credit Score':<12} | {'PointsEarned':<12} | {'Balance':<10}"
         )
-        print("__________________________________________________________________")
+        print("_" * len(header))
         current_page_entries = paginate(sorted_entries, entry_size, current_page)
         for entry in current_page_entries:
-            print(entry)
+            print(
+            f"\n{entry.CustomerId:<10} | {entry.Surname:<15} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
+        )
 
-        print("__________________________________________________________________")
+        print("_" * len(header))
         print(
-            f"_________________________Page {current_page}/{max_number_pages}_____________________________"
+            f"_______________________________Page {current_page}/{max_number_pages}__________________________________"
         )
         print("Enter N: Next page")
         print("Enter P: Previous page")
@@ -104,8 +92,8 @@ def printEntries(entries_list, entry_size=10):
         print(f"Enter 1 ~ {max_number_pages}: Go to a specific page")
         print("Enter X: Exit")
         user_input = input("Enter Here: ")
-        print("__________________________________________________________________")
-        print("__________________________________________________________________")
+        print("_" * len(header))
+        print("_" * len(header))
 
         if user_input.upper() == "N":
             current_page += 1
@@ -120,18 +108,38 @@ def printEntries(entries_list, entry_size=10):
 
         elif user_input.upper() == "G":
 
-            id_input = input("Please enter CustomerID: ")
+            id_input = input("Please enter CustomerID (15565701 ~ 15815690): ")
 
             print(
-                "\nRow Number - Surname - Tenure - Credit Score - Points Earned - Balance"
-            )
-            print("__________________________________________________________________")
+            f"\n{'CustomerId':<10} | {'Surname':<10} | {'Tenure':<6} | {'Credit Score':<12} | {'PointsEarned':<12} | {'Balance':<10}"
+        )
+            print("_" * len(header))
             entry = entry_selection(entries_list, id_input)
-            print(entry)
+            print(
+            f"\n{entry.CustomerId:<10} | {entry.Surname:<10} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
+        )
+            print()
             print()
 
         elif user_input.upper() == "S":
-            sorted_entries = sort_entries(entries_list)
+            print("Columns available for sorting:")
+            print("CreditScore, PointsEarned, Balance, Tenure, Id")
+
+            while True:
+                column = input("Enter the column name to sort by: ").strip().upper()
+                if column in columns.keys():
+                    break
+
+            while True:
+                order = (
+                    input("Enter 'asc' for ascending order or 'desc' for descending order: ")
+                    .strip()
+                    .lower()
+                )
+                if order == "asc" or order == "desc":
+                    break
+            
+            sorted_entries = sort_entries(entries_list, column, order == "desc")
 
         elif user_input.upper() == "X":
             break
