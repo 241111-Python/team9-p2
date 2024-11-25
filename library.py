@@ -1,7 +1,6 @@
 import csv
 from model import Data
 
-
 columns = {
     "credit score": "CreditScore",
     "points earned": "Point_Earned",
@@ -10,20 +9,24 @@ columns = {
 }
 
 
+# Reading and creating objs data from a dataset
 def csvRead(path):
-    with open(path, "r") as file:
-        # reading the CSV file
-        csvFile = csv.reader(file)
+    try:
+        with open(path, "r") as file:
+            # reading the CSV file
+            csvFile = csv.reader(file)
 
-        # displaying the contents of the CSV file
-        entries_list = []
-        # skips header
-        next(csvFile)
+            # displaying the contents of the CSV file
+            entries_list = []
+            # skips header
+            next(csvFile)
 
-        for lines in csvFile:
-            entry = Data(*lines)
-            entries_list.append(entry)
-    return entries_list
+            for lines in csvFile:
+                entry = Data(*lines)
+                entries_list.append(entry)
+        return entries_list
+    except FileNotFoundError:
+        print("File Not Found. Please check file's existence or its path again.")
 
 
 def paginate(entries, entry_size, page_number):
@@ -60,6 +63,7 @@ def sort_entries(entries_list):
     )
 
 
+# Selecting individual entry using a unique identifier (such as CustomerID)
 def entry_selection(entries_list, user_input):
     for entry in entries_list:
         if int(user_input) == entry.CustomerId:

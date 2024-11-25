@@ -1,4 +1,5 @@
 from library import printEntries, csvRead
+import argparse
 
 
 def main():
@@ -26,12 +27,15 @@ def main():
                     printEntries(entry_List)
                 elif number == 2:
                     # Load CSV Dataset
-                    #### we might need to put in a try/catch block here -------
-                    print("Load CSV Dataset function")
+                    print(
+                        "To load a CSV Dataset, use the following command in your terminal: "
+                    )
 
-                    path = input("Please provide a CSV dataset: ")
-                    entry_List = csvRead(path)
-                    printEntries(entry_List)
+                    print(
+                        "\npy main.py --load-dataset ./datasets/your-dataset-name.csv\n"
+                    )
+                    print("Exiting app...")
+                    break
 
                 elif number == 3:
                     # Analysis
@@ -46,4 +50,20 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    my_parser = argparse.ArgumentParser(
+        description="Argpaser for project 2: load_dataset"
+    )
+
+    my_parser.add_argument(
+        "--load-dataset",
+        type=str,
+        help="Load dataset from ./dataset directory. Please ensures it exists there.",
+    )
+
+    user_args = my_parser.parse_args()
+    if user_args.load_dataset:
+        print(f"Loading dataset from {user_args.load_dataset}")
+        entry_List = csvRead(user_args.load_dataset)
+        printEntries(entry_List)
+    else:
+        main()
