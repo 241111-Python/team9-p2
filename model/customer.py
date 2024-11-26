@@ -1,4 +1,4 @@
-class Data:
+class CustomerData:
     def __init__(
         self,
         RowNumber,
@@ -27,7 +27,7 @@ class Data:
         self.Geography = Geography
         self.Gender = Gender
         self.Age = int(Age)
-        self.Tenure = Tenure
+        self.Tenure = int(Tenure)
         self.Balance = float(Balance)
         self.NumOfProducts = int(NumOfProducts)
         self.HasCrCard = HasCrCard
