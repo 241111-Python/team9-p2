@@ -26,7 +26,7 @@ def main():
                     entry_List = csvRead(path)
                     printEntries(entry_List)
                 elif number == 2:
-                    # Load CSV Dataset
+                    # Load CSV Dataset instructions
                     print(
                         "To load a CSV Dataset, use the following command in your terminal: "
                     )
