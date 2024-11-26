@@ -88,4 +88,5 @@ if __name__ == "__main__":
             # Starting the analysis with choosing options
             printAnalysisEntries(entry_List)
     else:
+        # if there is nothing in the argument(s), the app will use the default dataset.
         main()
