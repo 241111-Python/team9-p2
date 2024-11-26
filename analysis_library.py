@@ -1,5 +1,6 @@
 import json
 from model.analysis import Analysis
+from library import csvRead
 
 def printAnalysisEntries(entry_list):
     while True:
@@ -158,4 +159,24 @@ def exportAnalysis(entry_list):
             jsonFile.close()
     except Exception as e:
         print(e)
+
+def ratioNumProdByPointsAvg(entry_list):
+    pointsEarnedData= dict()
+    for entry in entry_list:
+        if entry.Point_Earned not in pointsEarnedData:
+            pointsEarnedData[entry.Point_Earned] = {"customer_count":0, "num_of_products":0}
+        pointsEarnedData[entry.Point_Earned]["customer_count"] += 1
+        pointsEarnedData[entry.Point_Earned]["num_of_products"] += entry.NumOfProducts
     
+    ratio = dict()
+    for pointsEarned, data in pointsEarnedData.items():
+        ratio[pointsEarned] = data["num_of_products"] / data["customer_count"]
+
+    return dict(sorted(ratio.items()))
+    
+
+
+def crontabAnalysis(path):
+    entry_list = csvRead(path)
+
+    return ratioNumProdByPointsAvg(entry_list)
