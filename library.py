@@ -4,7 +4,7 @@ from model import Data
 columns = {
     "CREDITSCORE": "CreditScore",
     "POINTSEARNED": "Point_Earned",
-    "ID" : "CustomerId",
+    "ID": "CustomerId",
     "BALANCE": "Balance",
     "TENURE": "Tenure",
     "GEOGRAPHY": "Geography",
@@ -12,7 +12,6 @@ columns = {
     "ESTIMATEDSALARY": "EstimatedSalary",
     "GENDER": "Gender",
 }
-
 
 
 # Reading and creating objs data from a dataset
@@ -28,7 +27,7 @@ def csvRead(path):
             next(csvFile)
 
             for lines in csvFile:
-                entry = Data(*lines)
+                entry = EntryData(*lines)
                 entries_list.append(entry)
         return entries_list
     except FileNotFoundError:
@@ -47,9 +46,7 @@ def paginate(entries, entry_size, page_number):
 def sort_entries(entries_list, column="ID", order=False):
     column = columns[column]
 
-    return sorted(
-        entries_list, key=lambda x: getattr(x, column), reverse=order
-    )
+    return sorted(entries_list, key=lambda x: getattr(x, column), reverse=order)
 
 
 # Selecting individual entry using a unique identifier (such as CustomerID)
@@ -82,8 +79,8 @@ def printEntries(entries_list, entry_size=10):
         current_page_entries = paginate(sorted_entries, entry_size, current_page)
         for entry in current_page_entries:
             print(
-            f"\n{entry.CustomerId:<10} | {entry.Surname:<15} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
-        )
+                f"\n{entry.CustomerId:<10} | {entry.Surname:<15} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
+            )
 
         print("_" * len(header))
         print(
@@ -115,13 +112,13 @@ def printEntries(entries_list, entry_size=10):
             id_input = input("Please enter CustomerID (15565701 ~ 15815690): ")
 
             print(
-            f"\n{'CustomerId':<10} | {'Surname':<10} | {'Tenure':<6} | {'Credit Score':<12} | {'PointsEarned':<12} | {'Balance':<10}"
-        )
+                f"\n{'CustomerId':<10} | {'Surname':<10} | {'Tenure':<6} | {'Credit Score':<12} | {'PointsEarned':<12} | {'Balance':<10}"
+            )
             print("_" * len(header))
             entry = entry_selection(entries_list, id_input)
             print(
-            f"\n{entry.CustomerId:<10} | {entry.Surname:<10} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
-        )
+                f"\n{entry.CustomerId:<10} | {entry.Surname:<10} | {entry.Tenure:^6} | {entry.CreditScore:^12} | {entry.Point_Earned:^12} | {entry.Balance:<10}"
+            )
             print()
             print()
 
@@ -136,13 +133,15 @@ def printEntries(entries_list, entry_size=10):
 
             while True:
                 order = (
-                    input("Enter 'asc' for ascending order or 'desc' for descending order: ")
+                    input(
+                        "Enter 'asc' for ascending order or 'desc' for descending order: "
+                    )
                     .strip()
                     .lower()
                 )
                 if order == "asc" or order == "desc":
                     break
-            
+
             sorted_entries = sort_entries(entries_list, column, order == "desc")
 
         elif user_input.upper() == "X":
