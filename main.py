@@ -1,4 +1,4 @@
-from library import printEntries, csvRead
+from library import printEntries, csvRead, printAnalysisEntries
 import argparse
 
 
@@ -22,7 +22,7 @@ def main():
             if number >= 1 and number <= 4:
                 if number == 1:
                     # Display Provided Dataset
-                    path = "./Customer-Churn-Records.csv"
+                    path = "./datasets/Customer-Churn-Records.csv"
                     entry_List = csvRead(path)
                     printEntries(entry_List)
                 elif number == 2:
@@ -30,7 +30,6 @@ def main():
                     print(
                         "To load a CSV Dataset, use the following command in your terminal: "
                     )
-
                     print(
                         "\npy main.py --load-dataset ./datasets/your-dataset-name.csv\n"
                     )
@@ -39,7 +38,9 @@ def main():
 
                 elif number == 3:
                     # Analysis
-                    print("Displays Analysis Menu")
+                    path = "./datasets/Customer-Churn-Records.csv"
+                    entry_List = csvRead(path)
+                    printAnalysisEntries(entry_List)
                 elif number == 4:
                     print("Exiting app...")
                     break
