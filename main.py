@@ -57,7 +57,7 @@ if __name__ == "__main__":
     my_parser.add_argument(
         "--load-dataset",
         type=str,
-        choices=["display", "analyze"]
+        choices=["display", "analyze"],
         help="Load dataset from ./dataset directory either to display or analyze it. Please ensures it exists there.",
     )
 
@@ -66,17 +66,19 @@ if __name__ == "__main__":
         if user_args.load_dataset.split(" ")[1] == "display":
             # getting the path from the first part of argument
             path = user_args.load_dataset.split(" ")[0]
-            
+
             print(f"Loading dataset from {path}")
             print("Displaying the dataset: (Pagination)")
             entry_List = csvRead(path)
-            printEntries(entry_List)           # Display the dataset in pagination
+            # Display the dataset in pagination
+            printEntries(entry_List)
         elif user_args.load_dataset.split(" ")[1] == "analyze":
             # getting the path from the first part of argument
             path = user_args.load_dataset.split(" ")[0]
-            
+
             print(f"Loading dataset from {path}")
             entry_List = csvRead(path)
-            printAnalysisEntries(entry_List)   # Starting the analysis with choosing options
+            # Starting the analysis with choosing options
+            printAnalysisEntries(entry_List)
     else:
         main()
