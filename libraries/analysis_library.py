@@ -1,6 +1,6 @@
 import json
 from model.analysis import Analysis
-from library import csvRead
+from libraries.library import csvRead
 
 def printAnalysisEntries(entry_list):
     while True:

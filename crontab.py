@@ -1,5 +1,5 @@
 from datetime import datetime
-from analysis_library import crontabAnalysis
+from libraries.analysis_library import crontabAnalysis
 import os
 
 cwd = os.path.dirname(os.path.abspath(__file__))
