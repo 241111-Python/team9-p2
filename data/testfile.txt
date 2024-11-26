@@ -6,10 +6,6 @@ Project Descriptions - by end of today!!!
 Pagination - sort based on 2 values/columns at a time (CreditScores & age)?? (age, balance)??
 
 
-
-
-
-
 Description:
     _display bank...csv file, and analyze 
     _read csv file
