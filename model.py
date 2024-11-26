@@ -41,18 +41,3 @@ class Data:
 
     def __str__(self):
         return f"{self.RowNumber}: {self.Surname} - {self.Tenure} - {self.CreditScore} - {self.Point_Earned} - {self.Balance}"
-
-
-class EntryData:
-
-    def __init__(self, **kwargs):
-        self.CustomerId = kwargs["CustomerId"]
-        self.CreditScore = kwargs["CreditScore"]
-        self.Age = kwargs["Age"]
-        self.Tenure = kwargs["Tenure"]
-        self.Balance = kwargs["Balance"]
-        self.NumOfProducts = kwargs["NumOfProducts"]
-        self.EstimatedSalary = kwargs["EstimatedSalary"]
-
-    def __str__(self):
-        return f"{self.CustomerId}: {self.Tenure} - {self.CreditScore} - {self.EstimatedSalary} - {self.Balance}"
