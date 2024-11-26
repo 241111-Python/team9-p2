@@ -40,4 +40,4 @@ class Data:
         self.Point_Earned = int(Point_Earned)
 
     def __str__(self):
-        return f"{self.CustomerId}: {self.Surname} - {self.Tenure} - {self.CreditScore} - {self.Point_Earned} - {self.Balance}"
+        return f"{self.RowNumber}: {self.Surname} - {self.Tenure} - {self.CreditScore} - {self.Point_Earned} - {self.Balance}"

@@ -10,7 +10,7 @@ def main():
         print("\nWelcome to the Bank Churn Data Analysis Menu")
         print("__________________________________________________________________")
         print("\n1. Display Provided Dataset: (Pagination...)")
-        print("2. Load CSV Dataset")
+        print("2. Load CSV Dataset to Display or Analyze")
         print("3. Analysis")
         print("4. Exit")
         print("__________________________________________________________________")
@@ -58,13 +58,28 @@ if __name__ == "__main__":
     my_parser.add_argument(
         "--load-dataset",
         type=str,
-        help="Load dataset from ./dataset directory. Please ensures it exists there.",
+        choices=["display", "analyze"],
+        help="Load dataset from ./dataset directory either to display or analyze it. Please ensures it exists there.",
     )
 
     user_args = my_parser.parse_args()
     if user_args.load_dataset:
-        print(f"Loading dataset from {user_args.load_dataset}")
-        entry_List = csvRead(user_args.load_dataset)
-        printEntries(entry_List)
+        if user_args.load_dataset.split(" ")[1] == "display":
+            # getting the path from the first part of argument
+            path = user_args.load_dataset.split(" ")[0]
+
+            print(f"Loading dataset from {path}")
+            print("Displaying the dataset: (Pagination)")
+            entry_List = csvRead(path)
+            # Display the dataset in pagination
+            printEntries(entry_List)
+        elif user_args.load_dataset.split(" ")[1] == "analyze":
+            # getting the path from the first part of argument
+            path = user_args.load_dataset.split(" ")[0]
+
+            print(f"Loading dataset from {path}")
+            entry_List = csvRead(path)
+            # Starting the analysis with choosing options
+            printAnalysisEntries(entry_List)
     else:
         main()
