@@ -1,5 +1,5 @@
-from library import printEntries, csvRead
-from analysis_library import printAnalysisEntries
+from libraries.library import printEntries, csvRead
+from libraries.analysis_library import printAnalysisEntries
 import argparse
 
 
