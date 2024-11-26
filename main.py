@@ -1,8 +1,11 @@
-from library import printEntries, csvRead, printAnalysisEntries
+from library import printEntries, csvRead
+from analysis_library import printAnalysisEntries
 import argparse
 
 
 def main():
+
+    path = "./datasets/Customer-Churn-Records.csv"
     # Mantains application running
     while True:
         # Generates command line text menu
@@ -22,7 +25,6 @@ def main():
             if number >= 1 and number <= 4:
                 if number == 1:
                     # Display Provided Dataset
-                    path = "./datasets/Customer-Churn-Records.csv"
                     entry_List = csvRead(path)
                     printEntries(entry_List)
                 elif number == 2:
@@ -38,7 +40,6 @@ def main():
 
                 elif number == 3:
                     # Analysis
-                    path = "./datasets/Customer-Churn-Records.csv"
                     entry_List = csvRead(path)
                     printAnalysisEntries(entry_List)
                 elif number == 4:

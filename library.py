@@ -1,5 +1,5 @@
 import csv
-from model import Data
+from model.customer import CustomerData
 
 columns = {
     "CREDITSCORE": "CreditScore",
@@ -27,7 +27,7 @@ def csvRead(path):
             next(csvFile)
 
             for lines in csvFile:
-                entry = Data(*lines)
+                entry = CustomerData(*lines)
                 entries_list.append(entry)
         return entries_list
     except FileNotFoundError:
