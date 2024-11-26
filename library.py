@@ -27,7 +27,7 @@ def csvRead(path):
             next(csvFile)
 
             for lines in csvFile:
-                entry = EntryData(*lines)
+                entry = Data(*lines)
                 entries_list.append(entry)
         return entries_list
     except FileNotFoundError:
@@ -149,9 +149,10 @@ def printEntries(entries_list, entry_size=10):
 
         elif int(user_input) >= 1 and int(user_input) <= max_number_pages:
             current_page = int(user_input)
-        
+
         else:
             print("Invalid input!. Please review the options and try again")
+
 
 def printAnalysisEntries(entry_list):
     while True:
@@ -172,95 +173,119 @@ def printAnalysisEntries(entry_list):
         elif user_input.upper() == "X":
             break
         else:
-            print("Invalid input!. Please review the options and try again")        
-        
+            print("Invalid input!. Please review the options and try again")
+
+
 def geoScoreAvg(entry_list):
-    region = [] 
+    region = []
     for entry in entry_list:
         if entry.Geography not in region:
             region.append(entry.Geography)
     for country in region:
-        creditSum=0
-        countryEntries=0
-        countryScoreAvg=0
-        for entry in entry_list:  
+        creditSum = 0
+        countryEntries = 0
+        countryScoreAvg = 0
+        for entry in entry_list:
             if country == entry.Geography:
-                creditSum=creditSum+entry.CreditScore
-                countryEntries=countryEntries+1
-        countryScoreAvg=creditSum/countryEntries
-        print("The average credit score of "+ country + " is " + str(int(countryScoreAvg))) 
+                creditSum = creditSum + entry.CreditScore
+                countryEntries = countryEntries + 1
+        countryScoreAvg = creditSum / countryEntries
+        print(
+            "The average credit score of "
+            + country
+            + " is "
+            + str(int(countryScoreAvg))
+        )
+
 
 def balanceAgeAvg(entry_list):
-    ages = ["18-29","30-39",'40-49',"50-59","60-69","70-79","80-89","90+"]
-    balances = [0,0,0,0,0,0,0,0]
-    entries = [0,0,0,0,0,0,0,0]
-    balanceAverages = [0,0,0,0,0,0,0,0]
-    for entry in entry_list:  
-        if (entry.Age>=18 and entry.Age<=29):
-            balances[0]=balances[0]+entry.Balance
-            entries[0]=entries[0]+1
-        if (entry.Age>=30 and entry.Age<=39):
-            balances[1]=balances[1]+entry.Balance
-            entries[1]=entries[1]+1
-        if (entry.Age>=40 and entry.Age<=49):
-            balances[2]=balances[2]+entry.Balance
-            entries[2]=entries[2]+1
-        if (entry.Age>=50 and entry.Age<=59):
-            balances[3]=balances[3]+entry.Balance
-            entries[3]=entries[3]+1
-        if (entry.Age>=60 and entry.Age<=69):
-            balances[4]=balances[4]+entry.Balance
-            entries[4]=entries[4]+1
-        if (entry.Age>=70 and entry.Age<=79):
-            balances[5]=balances[5]+entry.Balance
-            entries[5]=entries[5]+1
-        if (entry.Age>=80 and entry.Age<=89):
-            balances[6]=balances[6]+entry.Balance
-            entries[6]=entries[6]+1
-        if (entry.Age>=90):
-            balances[7]=balances[7]+entry.Balance
-            entries[7]=entries[7]+1
+    ages = ["18-29", "30-39", "40-49", "50-59", "60-69", "70-79", "80-89", "90+"]
+    balances = [0, 0, 0, 0, 0, 0, 0, 0]
+    entries = [0, 0, 0, 0, 0, 0, 0, 0]
+    balanceAverages = [0, 0, 0, 0, 0, 0, 0, 0]
+    for entry in entry_list:
+        if entry.Age >= 18 and entry.Age <= 29:
+            balances[0] = balances[0] + entry.Balance
+            entries[0] = entries[0] + 1
+        if entry.Age >= 30 and entry.Age <= 39:
+            balances[1] = balances[1] + entry.Balance
+            entries[1] = entries[1] + 1
+        if entry.Age >= 40 and entry.Age <= 49:
+            balances[2] = balances[2] + entry.Balance
+            entries[2] = entries[2] + 1
+        if entry.Age >= 50 and entry.Age <= 59:
+            balances[3] = balances[3] + entry.Balance
+            entries[3] = entries[3] + 1
+        if entry.Age >= 60 and entry.Age <= 69:
+            balances[4] = balances[4] + entry.Balance
+            entries[4] = entries[4] + 1
+        if entry.Age >= 70 and entry.Age <= 79:
+            balances[5] = balances[5] + entry.Balance
+            entries[5] = entries[5] + 1
+        if entry.Age >= 80 and entry.Age <= 89:
+            balances[6] = balances[6] + entry.Balance
+            entries[6] = entries[6] + 1
+        if entry.Age >= 90:
+            balances[7] = balances[7] + entry.Balance
+            entries[7] = entries[7] + 1
     for i in range(8):
-        if entries[i]!=0:
-            balanceAverages[i]=balances[i]/entries[i]
+        if entries[i] != 0:
+            balanceAverages[i] = balances[i] / entries[i]
         else:
-            balanceAverages[i]=0            
+            balanceAverages[i] = 0
     for i in range(8):
-        if entries[i]!=0:
-            print ("The average account balance for ages "+ages[i]+" is $"+("%.2f"%balanceAverages[i]))
+        if entries[i] != 0:
+            print(
+                "The average account balance for ages "
+                + ages[i]
+                + " is $"
+                + ("%.2f" % balanceAverages[i])
+            )
+
 
 def tenureScoreAvg(entry_list):
-    tenures = []    
+    tenures = []
     for entry in entry_list:
         if entry.Tenure not in tenures:
             tenures.append(entry.Tenure)
-    tenures.sort()        
+    tenures.sort()
     for tenure in tenures:
-        creditSum=0
-        tenureEntries=0
-        tenureScoreAvg=0
-        for entry in entry_list:  
+        creditSum = 0
+        tenureEntries = 0
+        tenureScoreAvg = 0
+        for entry in entry_list:
             if tenure == entry.Tenure:
-                creditSum=creditSum+entry.CreditScore
-                tenureEntries=tenureEntries+1
-        tenureScoreAvg=creditSum/tenureEntries
-        print("The average credit score of tenure rating "+ tenure + " is " + str(int(tenureScoreAvg)))
+                creditSum = creditSum + entry.CreditScore
+                tenureEntries = tenureEntries + 1
+        tenureScoreAvg = creditSum / tenureEntries
+        print(
+            "The average credit score of tenure rating "
+            + tenure
+            + " is "
+            + str(int(tenureScoreAvg))
+        )
+
 
 def salaryGenderAvg(entry_list):
-    genders = ["Male","Female"]
-    estimatedSalaries = [0,0]
-    entries = [0,0]
-    salaryAverages = [0,0]
-    for entry in entry_list:  
-        if (entry.Gender==genders[0]):
-            estimatedSalaries[0]=estimatedSalaries[0]+entry.EstimatedSalary
-            entries[0]=entries[0]+1
+    genders = ["Male", "Female"]
+    estimatedSalaries = [0, 0]
+    entries = [0, 0]
+    salaryAverages = [0, 0]
+    for entry in entry_list:
+        if entry.Gender == genders[0]:
+            estimatedSalaries[0] = estimatedSalaries[0] + entry.EstimatedSalary
+            entries[0] = entries[0] + 1
         else:
-            estimatedSalaries[1]=estimatedSalaries[1]+entry.EstimatedSalary
-            entries[1]=entries[1]+1
+            estimatedSalaries[1] = estimatedSalaries[1] + entry.EstimatedSalary
+            entries[1] = entries[1] + 1
     for i in range(2):
-        if entries[i]!=0:
-            salaryAverages[i]=estimatedSalaries[i]/entries[i]
+        if entries[i] != 0:
+            salaryAverages[i] = estimatedSalaries[i] / entries[i]
     for i in range(2):
-        if entries[i]!=0:
-            print ("The overall estimated salary for "+genders[i]+" is about $"+("%.2f"%salaryAverages[i]))        
+        if entries[i] != 0:
+            print(
+                "The overall estimated salary for "
+                + genders[i]
+                + " is about $"
+                + ("%.2f" % salaryAverages[i])
+            )
