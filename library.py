@@ -149,6 +149,6 @@ def printEntries(entries_list, entry_size=10):
 
         elif int(user_input) >= 1 and int(user_input) <= max_number_pages:
             current_page = int(user_input)
-        
+
         else:
             print("Invalid input!. Please review the options and try again")
