@@ -1,0 +1,1572 @@
+I am writing from crontab!
+
+The Average of number of products bought for 119 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 163 points earned is: 1.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 206 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 219 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 220 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 221 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 222 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 223 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 224 points earned is: 1.14
+-------------------------------------------------------------------------
+The Average of number of products bought for 225 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 226 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 227 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 228 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 229 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 230 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 231 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 232 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 233 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 234 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 235 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 236 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 237 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 238 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 239 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 240 points earned is: 1.81
+-------------------------------------------------------------------------
+The Average of number of products bought for 241 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 242 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 243 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 244 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 245 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 246 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 247 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 248 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 249 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 250 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 251 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 252 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 253 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 254 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 255 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 256 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 257 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 258 points earned is: 1.09
+-------------------------------------------------------------------------
+The Average of number of products bought for 259 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 260 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 261 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 262 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 263 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 264 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 265 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 266 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 267 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 268 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 269 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 270 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 271 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 272 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 273 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 274 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 275 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 276 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 277 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 278 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 279 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 280 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 281 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 282 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 283 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 284 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 285 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 286 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 287 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 288 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 289 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 290 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 291 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 292 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 293 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 294 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 295 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 296 points earned is: 1.59
+-------------------------------------------------------------------------
+The Average of number of products bought for 297 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 298 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 299 points earned is: 1.59
+-------------------------------------------------------------------------
+The Average of number of products bought for 300 points earned is: 1.86
+-------------------------------------------------------------------------
+The Average of number of products bought for 301 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 302 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 303 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 304 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 305 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 306 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 307 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 308 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 309 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 310 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 311 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 312 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 313 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 314 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 315 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 316 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 317 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 318 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 319 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 320 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 321 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 322 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 323 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 324 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 325 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 326 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 327 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 328 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 329 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 330 points earned is: 1.88
+-------------------------------------------------------------------------
+The Average of number of products bought for 331 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 332 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 333 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 334 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 335 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 336 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 337 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 338 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 339 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 340 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 341 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 342 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 343 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 344 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 345 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 346 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 347 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 348 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 349 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 350 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 351 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 352 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 353 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 354 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 355 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 356 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 357 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 358 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 359 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 360 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 361 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 362 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 363 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 364 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 365 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 366 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 367 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 368 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 369 points earned is: 2.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 370 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 371 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 372 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 373 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 374 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 375 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 376 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 377 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 378 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 379 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 380 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 381 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 382 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 383 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 384 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 385 points earned is: 1.11
+-------------------------------------------------------------------------
+The Average of number of products bought for 386 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 387 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 388 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 389 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 390 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 391 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 392 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 393 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 394 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 395 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 396 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 397 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 398 points earned is: 1.77
+-------------------------------------------------------------------------
+The Average of number of products bought for 399 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 400 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 401 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 402 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 403 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 404 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 405 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 406 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 407 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 408 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 409 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 410 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 411 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 412 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 413 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 414 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 415 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 416 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 417 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 418 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 419 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 420 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 421 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 422 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 423 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 424 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 425 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 426 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 427 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 428 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 429 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 430 points earned is: 2.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 431 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 432 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 433 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 434 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 435 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 436 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 437 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 438 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 439 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 440 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 441 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 442 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 443 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 444 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 445 points earned is: 1.15
+-------------------------------------------------------------------------
+The Average of number of products bought for 446 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 447 points earned is: 1.21
+-------------------------------------------------------------------------
+The Average of number of products bought for 448 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 449 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 450 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 451 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 452 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 453 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 454 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 455 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 456 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 457 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 458 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 459 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 460 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 461 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 462 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 463 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 464 points earned is: 1.88
+-------------------------------------------------------------------------
+The Average of number of products bought for 465 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 466 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 467 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 468 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 469 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 470 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 471 points earned is: 2.11
+-------------------------------------------------------------------------
+The Average of number of products bought for 472 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 473 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 474 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 475 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 476 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 477 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 478 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 479 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 480 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 481 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 482 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 483 points earned is: 1.27
+-------------------------------------------------------------------------
+The Average of number of products bought for 484 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 485 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 486 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 487 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 488 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 489 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 490 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 491 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 492 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 493 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 494 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 495 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 496 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 497 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 498 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 499 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 500 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 501 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 502 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 503 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 504 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 505 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 506 points earned is: 1.91
+-------------------------------------------------------------------------
+The Average of number of products bought for 507 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 508 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 509 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 510 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 511 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 512 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 513 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 514 points earned is: 1.22
+-------------------------------------------------------------------------
+The Average of number of products bought for 515 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 516 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 517 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 518 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 519 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 520 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 521 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 522 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 523 points earned is: 1.59
+-------------------------------------------------------------------------
+The Average of number of products bought for 524 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 525 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 526 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 527 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 528 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 529 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 530 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 531 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 532 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 533 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 534 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 535 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 536 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 537 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 538 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 539 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 540 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 541 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 542 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 543 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 544 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 545 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 546 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 547 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 548 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 549 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 550 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 551 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 552 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 553 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 554 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 555 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 556 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 557 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 558 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 559 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 560 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 561 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 562 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 563 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 564 points earned is: 1.41
+-------------------------------------------------------------------------
+The Average of number of products bought for 565 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 566 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 567 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 568 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 569 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 570 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 571 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 572 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 573 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 574 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 575 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 576 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 577 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 578 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 579 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 580 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 581 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 582 points earned is: 1.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 583 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 584 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 585 points earned is: 1.22
+-------------------------------------------------------------------------
+The Average of number of products bought for 586 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 587 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 588 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 589 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 590 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 591 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 592 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 593 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 594 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 595 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 596 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 597 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 598 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 599 points earned is: 1.23
+-------------------------------------------------------------------------
+The Average of number of products bought for 600 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 601 points earned is: 1.88
+-------------------------------------------------------------------------
+The Average of number of products bought for 602 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 603 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 604 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 605 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 606 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 607 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 608 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 609 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 610 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 611 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 612 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 613 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 614 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 615 points earned is: 1.37
+-------------------------------------------------------------------------
+The Average of number of products bought for 616 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 617 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 618 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 619 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 620 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 621 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 622 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 623 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 624 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 625 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 626 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 627 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 628 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 629 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 630 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 631 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 632 points earned is: 1.92
+-------------------------------------------------------------------------
+The Average of number of products bought for 633 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 634 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 635 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 636 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 637 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 638 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 639 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 640 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 641 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 642 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 643 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 644 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 645 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 646 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 647 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 648 points earned is: 1.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 649 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 650 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 651 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 652 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 653 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 654 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 655 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 656 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 657 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 658 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 659 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 660 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 661 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 662 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 663 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 664 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 665 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 666 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 667 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 668 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 669 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 670 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 671 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 672 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 673 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 674 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 675 points earned is: 1.37
+-------------------------------------------------------------------------
+The Average of number of products bought for 676 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 677 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 678 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 679 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 680 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 681 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 682 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 683 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 684 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 685 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 686 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 687 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 688 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 689 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 690 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 691 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 692 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 693 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 694 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 695 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 696 points earned is: 1.18
+-------------------------------------------------------------------------
+The Average of number of products bought for 697 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 698 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 699 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 700 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 701 points earned is: 1.63
+-------------------------------------------------------------------------
+The Average of number of products bought for 702 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 703 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 704 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 705 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 706 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 707 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 708 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 709 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 710 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 711 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 712 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 713 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 714 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 715 points earned is: 1.14
+-------------------------------------------------------------------------
+The Average of number of products bought for 716 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 717 points earned is: 1.77
+-------------------------------------------------------------------------
+The Average of number of products bought for 718 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 719 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 720 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 721 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 722 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 723 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 724 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 725 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 726 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 727 points earned is: 1.23
+-------------------------------------------------------------------------
+The Average of number of products bought for 728 points earned is: 1.12
+-------------------------------------------------------------------------
+The Average of number of products bought for 729 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 730 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 731 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 732 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 733 points earned is: 1.88
+-------------------------------------------------------------------------
+The Average of number of products bought for 734 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 735 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 736 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 737 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 738 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 739 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 740 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 741 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 742 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 743 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 744 points earned is: 1.12
+-------------------------------------------------------------------------
+The Average of number of products bought for 745 points earned is: 1.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 746 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 747 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 748 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 749 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 750 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 751 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 752 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 753 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 754 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 755 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 756 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 757 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 758 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 759 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 760 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 761 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 762 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 763 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 764 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 765 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 766 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 767 points earned is: 1.86
+-------------------------------------------------------------------------
+The Average of number of products bought for 768 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 769 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 770 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 771 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 772 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 773 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 774 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 775 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 776 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 777 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 778 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 779 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 780 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 781 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 782 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 783 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 784 points earned is: 1.59
+-------------------------------------------------------------------------
+The Average of number of products bought for 785 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 786 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 787 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 788 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 789 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 790 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 791 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 792 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 793 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 794 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 795 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 796 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 797 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 798 points earned is: 1.77
+-------------------------------------------------------------------------
+The Average of number of products bought for 799 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 800 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 801 points earned is: 1.39
+-------------------------------------------------------------------------
+The Average of number of products bought for 802 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 803 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 804 points earned is: 1.54
+-------------------------------------------------------------------------
+The Average of number of products bought for 805 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 806 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 807 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 808 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 809 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 810 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 811 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 812 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 813 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 814 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 815 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 816 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 817 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 818 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 819 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 820 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 821 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 822 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 823 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 824 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 825 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 826 points earned is: 2.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 827 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 828 points earned is: 1.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 829 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 830 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 831 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 832 points earned is: 1.14
+-------------------------------------------------------------------------
+The Average of number of products bought for 833 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 834 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 835 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 836 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 837 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 838 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 839 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 840 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 841 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 842 points earned is: 1.22
+-------------------------------------------------------------------------
+The Average of number of products bought for 843 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 844 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 845 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 846 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 847 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 848 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 849 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 850 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 851 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 852 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 853 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 854 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 855 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 856 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 857 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 858 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 859 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 860 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 861 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 862 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 863 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 864 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 865 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 866 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 867 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 868 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 869 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 870 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 871 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 872 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 873 points earned is: 1.44
+-------------------------------------------------------------------------
+The Average of number of products bought for 874 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 875 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 876 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 877 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 878 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 879 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 880 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 881 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 882 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 883 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 884 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 885 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 886 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 887 points earned is: 1.27
+-------------------------------------------------------------------------
+The Average of number of products bought for 888 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 889 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 890 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 891 points earned is: 1.20
+-------------------------------------------------------------------------
+The Average of number of products bought for 892 points earned is: 1.25
+-------------------------------------------------------------------------
+The Average of number of products bought for 893 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 894 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 895 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 896 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 897 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 898 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 899 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 900 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 901 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 902 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 903 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 904 points earned is: 1.14
+-------------------------------------------------------------------------
+The Average of number of products bought for 905 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 906 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 907 points earned is: 1.22
+-------------------------------------------------------------------------
+The Average of number of products bought for 908 points earned is: 1.36
+-------------------------------------------------------------------------
+The Average of number of products bought for 909 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 910 points earned is: 1.67
+-------------------------------------------------------------------------
+The Average of number of products bought for 911 points earned is: 1.23
+-------------------------------------------------------------------------
+The Average of number of products bought for 912 points earned is: 1.89
+-------------------------------------------------------------------------
+The Average of number of products bought for 913 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 914 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 915 points earned is: 1.45
+-------------------------------------------------------------------------
+The Average of number of products bought for 916 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 917 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 918 points earned is: 1.69
+-------------------------------------------------------------------------
+The Average of number of products bought for 919 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 920 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 921 points earned is: 1.64
+-------------------------------------------------------------------------
+The Average of number of products bought for 922 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 923 points earned is: 1.62
+-------------------------------------------------------------------------
+The Average of number of products bought for 924 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 925 points earned is: 1.70
+-------------------------------------------------------------------------
+The Average of number of products bought for 926 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 927 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 928 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 929 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 930 points earned is: 1.80
+-------------------------------------------------------------------------
+The Average of number of products bought for 931 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 932 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 933 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 934 points earned is: 2.12
+-------------------------------------------------------------------------
+The Average of number of products bought for 935 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 936 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 937 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 938 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 939 points earned is: 1.27
+-------------------------------------------------------------------------
+The Average of number of products bought for 940 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 941 points earned is: 1.75
+-------------------------------------------------------------------------
+The Average of number of products bought for 942 points earned is: 1.43
+-------------------------------------------------------------------------
+The Average of number of products bought for 943 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 944 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 945 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 946 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 947 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 948 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 949 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 950 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 951 points earned is: 1.22
+-------------------------------------------------------------------------
+The Average of number of products bought for 952 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 953 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 954 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 955 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 956 points earned is: 1.40
+-------------------------------------------------------------------------
+The Average of number of products bought for 957 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 958 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 959 points earned is: 1.73
+-------------------------------------------------------------------------
+The Average of number of products bought for 960 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 961 points earned is: 1.71
+-------------------------------------------------------------------------
+The Average of number of products bought for 962 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 963 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 964 points earned is: 1.38
+-------------------------------------------------------------------------
+The Average of number of products bought for 965 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 966 points earned is: 1.60
+-------------------------------------------------------------------------
+The Average of number of products bought for 967 points earned is: 1.57
+-------------------------------------------------------------------------
+The Average of number of products bought for 968 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 969 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 970 points earned is: 1.53
+-------------------------------------------------------------------------
+The Average of number of products bought for 971 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 972 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 973 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 974 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 975 points earned is: 1.78
+-------------------------------------------------------------------------
+The Average of number of products bought for 976 points earned is: 1.83
+-------------------------------------------------------------------------
+The Average of number of products bought for 977 points earned is: 1.47
+-------------------------------------------------------------------------
+The Average of number of products bought for 978 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 979 points earned is: 1.33
+-------------------------------------------------------------------------
+The Average of number of products bought for 980 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 981 points earned is: 1.46
+-------------------------------------------------------------------------
+The Average of number of products bought for 982 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 983 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 984 points earned is: 1.82
+-------------------------------------------------------------------------
+The Average of number of products bought for 985 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 986 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 987 points earned is: 1.17
+-------------------------------------------------------------------------
+The Average of number of products bought for 988 points earned is: 1.30
+-------------------------------------------------------------------------
+The Average of number of products bought for 989 points earned is: 1.58
+-------------------------------------------------------------------------
+The Average of number of products bought for 990 points earned is: 1.50
+-------------------------------------------------------------------------
+The Average of number of products bought for 991 points earned is: 2.11
+-------------------------------------------------------------------------
+The Average of number of products bought for 992 points earned is: 1.55
+-------------------------------------------------------------------------
+The Average of number of products bought for 993 points earned is: 1.56
+-------------------------------------------------------------------------
+The Average of number of products bought for 994 points earned is: 1.79
+-------------------------------------------------------------------------
+The Average of number of products bought for 995 points earned is: 1.31
+-------------------------------------------------------------------------
+The Average of number of products bought for 996 points earned is: 2.00
+-------------------------------------------------------------------------
+The Average of number of products bought for 997 points earned is: 1.42
+-------------------------------------------------------------------------
+The Average of number of products bought for 998 points earned is: 1.88
+-------------------------------------------------------------------------
+The Average of number of products bought for 999 points earned is: 1.29
+-------------------------------------------------------------------------
+The Average of number of products bought for 1000 points earned is: 1.56
+--------------------------------------------------------------------------
