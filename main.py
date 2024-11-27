@@ -32,11 +32,7 @@ def main():
                         "To load a CSV Dataset, use the following command in your terminal: "
                     )
                     print(
-<<<<<<< HEAD
                         "\npy main.py --load-dataset ./datasets/your-dataset-name.csv --display-analyze (choose either 'display' or 'analyze'\n"
-=======
-                        "\npy main.py --load-dataset ./datasets/dataset-name.csv --display-analyze (either display or analyze)\n"
->>>>>>> d3f4d514af9933a13d9efcbcd2cdeb35eef14d2d
                     )
                     print("Exiting app...")
                     break
@@ -69,11 +65,7 @@ if __name__ == "__main__":
         "--display-analyze",
         type=str,
         choices=["display", "analyze"],
-<<<<<<< HEAD
-        help="Either display or analyze the loaded the dataset.",
-=======
         help="Use the dataset to display or analyze it.",
->>>>>>> d3f4d514af9933a13d9efcbcd2cdeb35eef14d2d
     )
 
     user_args = my_parser.parse_args()
